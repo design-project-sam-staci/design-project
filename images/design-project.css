@@ -1,0 +1,45 @@
+html {
+    font-family: 'Abel', 'Anton', sans-serif;
+}
+
+body{
+    background-color: #e6e6e6 !important;
+}
+
+.circle1{
+    background-color: #e6563b;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-block;
+    color: white;
+}
+.circle2{
+    background-color: #eb9d3a;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-block;
+    color: white;
+}
+.circle3{
+    background-color: #7cb06c;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-block;
+    color: white;
+}
+.circle4{
+    background-color: #00aba9;
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+    border: 8px solid white;
+    display: inline-block;
+    color: white;
+}
+
