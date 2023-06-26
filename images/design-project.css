@@ -18,6 +18,8 @@ body{
     border: 8px solid white;
     display: inline-block;
     color: white;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
 }
 .circle2{
     background-color: #eb9d3a;
@@ -27,6 +29,7 @@ body{
     border: 8px solid white;
     display: inline-block;
     color: white;
+    font-family: 'Anton', sans-serif;
 }
 .circle3{
     background-color: #7cb06c;
@@ -36,6 +39,7 @@ body{
     border: 8px solid white;
     display: inline-block;
     color: white;
+    font-family: 'Anton', sans-serif;
 }
 .circle4{
     background-color: #00aba9;
@@ -45,5 +49,6 @@ body{
     border: 8px solid white;
     display: inline-block;
     color: white;
+    font-family: 'Anton', sans-serif;
 }
 
