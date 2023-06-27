@@ -13,6 +13,9 @@ h1{
 h2{
     font-size: 3rem;
 }
+h3{
+    font-family: 'Abel', sans-serif;
+}
 body{
     background-color: #e6e6e6 !important;
 }
@@ -44,5 +47,9 @@ body{
 #blue-dot{
     background-color: #00aba9;
 
+}
+
+.featured img {
+    width: 15rem;
 }
 
