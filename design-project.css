@@ -1,6 +1,9 @@
 /*html {*/
 /*    font-family: 'Abel', 'Anton', sans-serif;*/
 /*}*/
+img {
+    max-width: 100%;
+}
 .navbar{
     font-family: 'Abel', sans-serif;
 }
@@ -15,6 +18,7 @@ h2{
 }
 h3{
     font-family: 'Abel', sans-serif;
+    font-size: 1.25rem;
 }
 body{
     background-color: #f0f0f0;
@@ -50,7 +54,9 @@ body{
 }
 
 .featured img {
-    width: 15rem;
+    width: 100%;
+    aspect-ratio: 416/283;
+    object-fit:cover;
 }
 
 main img {
@@ -58,6 +64,9 @@ main img {
 }
 
 .aside img {
+    width: 6rem;
+    height: 6rem;
+    border: 3px solid #e6e6e6;
     border-radius: 10px;
 }
 
