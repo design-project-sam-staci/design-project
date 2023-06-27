@@ -36,19 +36,19 @@ body{
     line-height: 6rem;
 }
 
-#red-dot{
+#red-dot, #mini-red-dot{
     background-color: #e6563b;
 
 }
-#orange-dot{
+#orange-dot, #mini-orange-dot{
     background-color: #eb9d3a;
 
 }
-#green-dot{
+#green-dot, #mini-green-dot{
     background-color: #7cb06c;
 
 }
-#blue-dot{
+#blue-dot, #mini-blue-dot{
     background-color: #00aba9;
 
 }
@@ -70,3 +70,28 @@ main img {
     border-radius: 10px;
 }
 
+.mini-circle{
+    display: flex;
+    height: 2rem;
+    width: 2rem;
+    color: black;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    /*flex-direction: row;*/
+
+}
+.mini-circle.red{
+    background-color: #e6563b
+}
+.mini-circle.orange{
+    background-color: #eb9d3a;
+}
+.mini-circle.green{
+    background-color: #7cb06c;
+}
+.mini-circle.blue{
+    background-color: #00aba9;
+}
