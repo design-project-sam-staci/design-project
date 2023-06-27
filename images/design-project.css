@@ -1,11 +1,18 @@
 /*html {*/
 /*    font-family: 'Abel', 'Anton', sans-serif;*/
 /*}*/
-
+.navbar{
+    font-family: 'Abel', sans-serif;
+}
 h1,h2{
     font-family: 'Anton', sans-serif;
 }
-
+h1{
+    font-size: 4.5rem;
+}
+h2{
+    font-size: 3rem;
+}
 body{
     background-color: #e6e6e6 !important;
 }
